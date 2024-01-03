@@ -30,11 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É um formulario para criação de eventos online.
 
-- [Acesse o projeto finalizado, online](https://zuuuussss.github.io/02explorer/)
+- [Acesse o projeto finalizado, online](https://zuuuussss.github.io/03explorer/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/eMxnLcnE9ViAqqfr6XeuOY/Explorer---Projeto-02-(Copy)?type=design&node-id=1-5&mode=design&t=XApemElQragy50Ho-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/E7Yj33y2sQo5sM1qydZpaM/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1%3A63&mode=dev>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
